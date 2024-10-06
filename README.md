@@ -1,0 +1,1 @@
+# Anomaly-Detection-Predictive-Maintenance-for-Industrial-Devices
