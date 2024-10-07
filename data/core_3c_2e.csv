@@ -1,0 +1,2 @@
+,exec_memory,exec_cores,iteration,max_partition,executor_instance,time_1,time_2,time_3,total_time,n_executor,app_name
+0,1,3,0,51104814,2,[178.921222448349],[108.81169128417969],[92.48687028884888],[398.0605356693268],,"Spark Analysis slave 3, 2c"
